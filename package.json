@@ -25,6 +25,7 @@
     "electron": "^2.0.0"
   },
   "dependencies": {
-    "electron-packager": "^12.1.0"
+    "electron-packager": "^12.1.0",
+    "node-datetime": "^2.0.6"
   }
 }
